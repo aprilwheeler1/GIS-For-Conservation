@@ -20,3 +20,5 @@ III. Methodologies
 &nbsp;&nbsp;&nbsp;&nbsp;C. Geoprocessing Tools: First, I selected dacite by using the query “ROCKTYPE2 = dacite” since dacite is the location for ideal breeding nests. I decided to use the buffer tool so that I could see the areas that are within one mile of dacite, using geology as the input feature. Next, I decided to use the intersect tool to find the common area between the main roads and the dacite (geology buffer). Then I selected then reservation tab one more time to make sure that none of these roads were on the reservations. Doing this, it is very easy to see which main roads should be closed because they lead to the breeding areas.   
 
 <img width="403" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/a804dec5-e017-46fd-b5de-54b51a7d893d">
+
+<img width="395" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/086ae61b-effb-4f5c-9c4d-a972306f431f">
