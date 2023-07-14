@@ -21,5 +21,5 @@ III. Methodologies
 
 <img width="403" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/a804dec5-e017-46fd-b5de-54b51a7d893d">   
 <div style="page-break-after: always;"></div>
-
+<div style="page-break-after: always;"></div>
 <img width="395" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/086ae61b-effb-4f5c-9c4d-a972306f431f">   
