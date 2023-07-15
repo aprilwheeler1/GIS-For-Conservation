@@ -24,3 +24,30 @@ III. Methodologies
 <div style="page-break-after: always;"></div>
 
 <img width="395" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/086ae61b-effb-4f5c-9c4d-a972306f431f">   
+
+&nbsp;&nbsp;&nbsp;&nbsp;D. Symbols: I decided to stick with lines for all the roads, since roads are lines anyway. I color coded the interstates and highways as red since I couldn’t shut those down, and I used green for the main roads since I could shut those down. The reservations and the parks I kept true to shape and made the reservations red and the parks green. The geology buffer and main roads intersection I kept green to show that I could use those roads.
+
+<img width="404" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/c6184593-3571-4a98-8466-dff75bf0afe9">
+
+&nbsp;&nbsp;&nbsp;&nbsp;E. Map:
+
+<img width="395" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/13b30cab-d4fa-4afa-ab20-ec0d01c9abde">
+
+The green lines are the main roads that intersect between the 1-mile geology buffer (dacite) and the main roads layer.
+
+&nbsp;&nbsp;&nbsp;&nbsp;F. Best Practices: For best practices, I tried to incorporate all the basic elements of map design such as visual contrast, legibility, figure-ground, hierarchical organization, and balance. I wanted there to be a visual contrast between the green “yes” areas and the red “no” areas, and in my opinion, the visual contrast and the colors used was appropriate for the purpose of my map. I think my map was legible because of the good visual contrast and because it was not too crowded. The use of lines for roads and polygons for bigger areas of land made sense to me. I thought the figure-ground did a good job of outlining the state and the different areas and boundaries. I think my map had great hierarchical organization which is apparent in its main priority and purpose: which roads should be shut down during breeding season. There were so many other details about Arizona I could’ve added such as hospitals, businesses, shopping malls, etc. but I thought doing so would interfere with my hierarchical organization. I thought my map was balanced and all the parts of the map took up the appropriate amount of space.
+&nbsp;&nbsp;&nbsp;&nbsp;I struggled at first with using the intersect tool. At first it would not create a new later. After doing some research I found out that I needed to go to Geoprocessing > Geoprocessing Options > and uncheck “Background Processing.” After that it worked. I tried to make my map organized, not too crowded, and color coded so that the viewer could see “green = yes, shut down” and “red = no, don’t shut down.”
+
+IV. Conclusions
+&nbsp;&nbsp;&nbsp;&nbsp;Observations: When I observe my map, I can see that only a small amount of roads are available for closure. A large portion of the state is off limits because of reservations. There is basically either a highway or an interstate at all areas of the state, so that makes it another challenge. The mineral dacite is also abundant in areas of the state, such as the northwest and the southeast, where many roads cannot be shut down because of the little access to the appropriate roads for shut down.
+&nbsp;&nbsp;&nbsp;&nbsp;Recommendations: Observing my map and seeing how little roads are available for closure under these guidelines, I can see why the storm wing falcon population of Arizona is endangered. It is a challenge to meet the quality of life and the dietary restrictions of these birds and to coexist with humans at the same time. Perhaps more of an effort can be made to prop up the bird population in other ways. If more dacite/turquoise bellied snails are deposited throughout places in the state they wouldn’t normally be, such as the state parks, maybe that would provide much more land for the storm wing falcons to prosper. I think that the state of Arizona should do everything it can to try to save this species and its important role in the ecosystem in order to prevent more eventual effects from climate change. Utilizing the state parks for natural land for these birds would be a great first step.
+
+
+References
+
+Buckley, Aileen. Design Principles for Cartography. 28 October 2011. Retrieved from https://www.esri.com/arcgis-blog/products/product/mapping/design-principles-for-cartography/
+
+Intersect Tool Issues. 28 July 2017. Retrieved from 	https://community.esri.com/t5/geoprocessing-questions/intersect-tool-issues/td-p/283511
+
+Maps & GIS. Arizona State Land Department. Retrieved from https://land.az.gov/maps-gis-0
+
